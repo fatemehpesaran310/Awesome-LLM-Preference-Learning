@@ -113,6 +113,8 @@ This repo contains a curated list of [📙Awesome LLM Preference Learning Papers
 
   **LLM Critics Help Catch Bugs in Mathematics: Towards a Better Mathematical Verifier with Natural Language Feedback (2024.6)** *Bofei Gao, Zefan Cai, Runxin Xu, Peiyi Wang, Ce Zheng, Runji Lin, Keming Lu, Dayiheng Liu, Chang Zhou, Wen Xiao, Junjie Hu, Tianyu Liu, Baobao Chang* [\[paper\]](https://arxiv.org/abs/2406.14024)
 
+  **DMoERM: Recipes of Mixture-of-Experts for Effective Reward Modeling (2024.3)** *Shanghaoran Quan* [\[paper\]](https://arxiv.org/abs/2403.01197)
+
 #### 2.2.2 Pairwise Scoring
   **PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization (2023.6)** *Yidong Wang, Zhuohao Yu, Zhengran Zeng, Linyi Yang, Cunxiang Wang, Hao Chen, Chaoya Jiang, Rui Xie, Jindong Wang, Xing Xie, Wei Ye, Shikun Zhang, Yue Zhang* [\[paper\]](https://arxiv.org/abs/2306.05087)
 
