@@ -113,6 +113,14 @@ This repo contains a curated list of [📙Awesome LLM Preference Learning Papers
 
   **LLM Critics Help Catch Bugs in Mathematics: Towards a Better Mathematical Verifier with Natural Language Feedback (2024.6)** *Bofei Gao, Zefan Cai, Runxin Xu, Peiyi Wang, Ce Zheng, Runji Lin, Keming Lu, Dayiheng Liu, Chang Zhou, Wen Xiao, Junjie Hu, Tianyu Liu, Baobao Chang* [\[paper\]](https://arxiv.org/abs/2406.14024)
 
+  **DMoERM: Recipes of Mixture-of-Experts for Effective Reward Modeling (2024.3)** *Shanghaoran Quan* [\[paper\]](https://arxiv.org/abs/2403.01197)
+
+  **General Preference Modeling with Preference Representations for Aligning Language Models (2024.10)** *Yifan Zhang, Ge Zhang, Yue Wu, Kangping Xu, Quanquan Gu* [\[paper\]](https://arxiv.org/abs/2410.02197)
+
+  **Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning (2024.10)** *Amrith Setlur, Chirag Nagpal, Adam Fisch, Xinyang Geng, Jacob Eisenstein, Rishabh Agarwal, Alekh Agarwal, Jonathan Berant, Aviral Kumar* [\[paper\]](https://arxiv.org/abs/2410.08146)
+
+  **Skywork-Reward: Bag of Tricks for Reward Modeling in LLMs (2024.10)** *Chris Yuhao Liu, Liang Zeng, Jiacai Liu, Rui Yan, Jujie He, Chaojie Wang, Shuicheng Yan, Yang Liu, Yahui Zhou* [\[paper\]](https://arxiv.org/abs/2410.18451)
+
 #### 2.2.2 Pairwise Scoring
   **PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization (2023.6)** *Yidong Wang, Zhuohao Yu, Zhengran Zeng, Linyi Yang, Cunxiang Wang, Hao Chen, Chaoya Jiang, Rui Xie, Jindong Wang, Xing Xie, Wei Ye, Shikun Zhang, Yue Zhang* [\[paper\]](https://arxiv.org/abs/2306.05087)
 
@@ -123,12 +131,15 @@ This repo contains a curated list of [📙Awesome LLM Preference Learning Papers
 
   **Self-Rewarding Language Models (2024.1)** *Weizhe Yuan, Richard Yuanzhe Pang, Kyunghyun Cho, Xian Li, Sainbayar Sukhbaatar, Jing Xu, Jason Weston* [\[paper\]](https://arxiv.org/abs/2401.10020)
 
-
   **LLM Critics Help Catch LLM Bugs (2024.6)** *Nat McAleese, Rai Michael Pokorny, Juan Felipe Ceron Uribe, Evgenia Nitishinskaya, Maja Trebacz, Jan Leike* [\[paper\]](https://arxiv.org/abs/2407.00215)
 
   **Meta-Rewarding Language Models: Self-Improving Alignment with LLM-as-a-Meta-Judge (2024.7)** *Tianhao Wu, Weizhe Yuan, Olga Golovneva, Jing Xu, Yuandong Tian, Jiantao Jiao, Jason Weston, Sainbayar Sukhbaatar* [\[paper\]](https://arxiv.org/abs/2407.19594)
 
   **Generative Verifiers: Reward Modeling as Next-Token Prediction (2024.8)** *Lunjun Zhang, Arian Hosseini, Hritik Bansal, Mehran Kazemi, Aviral Kumar, Rishabh Agarwal* [\[paper\]](https://arxiv.org/abs/2408.15240)
+
+  **The Perfect Blend: Redefining RLHF with Mixture of Judges (2024.9)** *Tengyu Xu, Eryk Helenowski, Karthik Abinav Sankararaman, Di Jin, Kaiyan Peng, Eric Han, Shaoliang Nie, Chen Zhu, Hejia Zhang, Wenxuan Zhou, Zhouhao Zeng, Yun He, Karishma Mandyam, Arya Talabzadeh, Madian Khabsa, Gabriel Cohen, Yuandong Tian, Hao Ma, Sinong Wang, Han Fang* [\[paper\]](https://arxiv.org/abs/2409.20370)
+
+  **Beyond Scalar Reward Model: Learning Generative Judge from Preference Data** *Ziyi Ye, Xiangsheng Li, Qiuchi Li, Qingyao Ai, Yujia Zhou, Wei Shen, Dong Yan, Yiqun Liu* [\[paper\]](https://arxiv.org/abs/2410.03742)
 
 ## 3. Algorithms
 ### 3.1 Pointwise Methods
@@ -250,6 +261,7 @@ This repo contains a curated list of [📙Awesome LLM Preference Learning Papers
 
   **Wider and Deeper LLM Networks are Fairer LLM Evaluators (2023.8)** *Xinghua Zhang, Bowen Yu, Haiyang Yu, Yangyu Lv, Tingwen Liu, Fei Huang, Hongbo Xu, Yongbin Li* [\[paper\]](https://arxiv.org/abs/2308.01862)
 
+  **How to Evaluate Reward Models for RLHF (2024.10)** *Evan Frick, Tianle Li, Connor Chen, Wei-Lin Chiang, Anastasios N. Angelopoulos, Jiantao Jiao, Banghua Zhu, Joseph E. Gonzalez, Ion Stoica* [\[paper\]](https://arxiv.org/abs/2410.14872)
 
 # 🌟Contribute
 Welcome to star & submit a PR to this repo! 
